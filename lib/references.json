@@ -1,0 +1,465 @@
+{
+  "checkedOn": "2026-10-07",
+  "references": [
+    {
+      "id": "abreu2016",
+      "authors": "ABREU, Júlio Cesar Andrade de",
+      "title": "Participação democrática em ambientes digitais: o desenho institucional do orçamento participativo digital",
+      "publication": "Cadernos EBAPE.BR",
+      "location": "Rio de Janeiro",
+      "year": 2016,
+      "volume": 14,
+      "issue": 3,
+      "pages": "794–820",
+      "doi": "10.1590/1679-395131558",
+      "url": "https://doi.org/10.1590/1679-395131558",
+      "alternateUrl": "https://www.scielo.br/j/cebape/a/PqFg4bM4CCGQhqLRfqc4ctj/",
+      "sourceRef": "turn10search0",
+      "status": "verified_primary_indexed_fulltext",
+      "abnt": "ABREU, Júlio Cesar Andrade de. Participação democrática em ambientes digitais: o desenho institucional do orçamento participativo digital. Cadernos EBAPE.BR, Rio de Janeiro, v. 14, n. 3, p. 794–820, 2016. DOI: 10.1590/1679-395131558.",
+      "teachingNote": "Estuda o orçamento participativo digital de Belo Horizonte em suas três primeiras edições; ampliação quantitativa da participação não equivale automaticamente à qualidade do debate.",
+      "accessed": "7 out. 2026",
+      "fullReference": "ABREU, Júlio Cesar Andrade de. Participação democrática em ambientes digitais: o desenho institucional do orçamento participativo digital. Cadernos EBAPE.BR, Rio de Janeiro, v. 14, n. 3, p. 794–820, 2016. DOI: 10.1590/1679-395131558. Disponível em: https://doi.org/10.1590/1679-395131558. Acesso em: 7 out. 2026."
+    },
+    {
+      "id": "ufg2024",
+      "authors": "UNIVERSIDADE FEDERAL DE GOIÁS. Comitê de Integridade Acadêmica",
+      "organizers": [
+        "Lilian Ribeiro de Rezende",
+        "Luciana Alves de Oliveira"
+      ],
+      "title": "Guia de integridade acadêmica",
+      "location": "Goiânia",
+      "publisher": "UFG",
+      "year": 2024,
+      "date": "agosto 2024",
+      "pages": 41,
+      "relevantPages": "cap. 9: p. 30–35 (numeração impressa); PDF: páginas 30–35 de 41",
+      "url": "https://files.cercomp.ufg.br/weby/up/680/o/Guia_de_integridade_acade%CC%82mica_-_2024_-_com_alterac%CC%A7o%CC%83es.pdf",
+      "sourceRef": "turn1view1",
+      "status": "verified_primary_pdf",
+      "abnt": "UNIVERSIDADE FEDERAL DE GOIÁS. Comitê de Integridade Acadêmica. Guia de integridade acadêmica. Organização: Lilian Ribeiro de Rezende e Luciana Alves de Oliveira. Goiânia: UFG, 2024. 41 p.",
+      "teachingNote": "O guia é material de orientação, não regulamento punitivo. O capítulo de IA enfatiza verificação humana, responsabilidade e transparência.",
+      "accessed": "7 out. 2026",
+      "fullReference": "UNIVERSIDADE FEDERAL DE GOIÁS. Comitê de Integridade Acadêmica. Guia de integridade acadêmica. Organização: Lilian Ribeiro de Rezende e Luciana Alves de Oliveira. Goiânia: UFG, 2024. 41 p. Disponível em: https://files.cercomp.ufg.br/weby/up/680/o/Guia_de_integridade_acade%CC%82mica_-_2024_-_com_alterac%CC%A7o%CC%83es.pdf. Acesso em: 7 out. 2026."
+    },
+    {
+      "id": "ibmvideo",
+      "authors": "IBM TECHNOLOGY",
+      "title": "7 AI Terms You Need to Know: Agents, RAG, ASI & More",
+      "type": "Vídeo",
+      "platform": "YouTube",
+      "presenter": "Martin Keen",
+      "year": 2025,
+      "exactPublicationDate": null,
+      "url": "https://www.youtube.com/watch?v=VSFuqMh4hus",
+      "sourceRef": "turn0youtube48",
+      "supportingOfficialRef": "turn0search7",
+      "status": "verified_title_link_channel_via_ibm_official_docs; exact_date_unverified",
+      "abnt": "IBM TECHNOLOGY. 7 AI Terms You Need to Know: Agents, RAG, ASI & More. YouTube, [2025]. Vídeo.",
+      "teachingNote": "A URL de ai-agents no PPTX é de outro conteúdo e precisa ser corrigida para o vídeo. O slide traz 8 termos porque inclui AGI.",
+      "accessed": "7 out. 2026",
+      "fullReference": "IBM TECHNOLOGY. 7 AI Terms You Need to Know: Agents, RAG, ASI & More. YouTube, [2025]. Vídeo. Disponível em: https://www.youtube.com/watch?v=VSFuqMh4hus. Acesso em: 7 out. 2026."
+    },
+    {
+      "id": "ibmllm",
+      "authors": "STRYKER, Cole",
+      "title": "What are large language models (LLMs)?",
+      "publication": "IBM Think",
+      "date": "6 October 2021",
+      "year": 2021,
+      "url": "https://www.ibm.com/think/topics/large-language-models",
+      "sourceRef": "turn3view0",
+      "status": "verified_primary",
+      "abnt": "STRYKER, Cole. What are large language models (LLMs)? IBM Think, 6 out. 2021.",
+      "accessed": "7 out. 2026",
+      "fullReference": "STRYKER, Cole. What are large language models (LLMs)? IBM Think, 6 out. 2021. Disponível em: https://www.ibm.com/think/topics/large-language-models. Acesso em: 7 out. 2026."
+    },
+    {
+      "id": "ibmrag",
+      "authors": "IBM",
+      "creditedAuthor": "Ivan Belcic (um segundo nome não foi renderizado pelo extrator)",
+      "title": "What is retrieval augmented generation (RAG)?",
+      "publication": "IBM Think",
+      "date": "21 October 2024",
+      "updated": "2 October 2026",
+      "year": 2024,
+      "url": "https://www.ibm.com/think/topics/retrieval-augmented-generation",
+      "sourceRef": "turn3view1",
+      "status": "verified_primary",
+      "abnt": "IBM. What is retrieval augmented generation (RAG)? IBM Think, 21 out. 2024. Atualizado em: 2 out. 2026.",
+      "accessed": "7 out. 2026",
+      "fullReference": "IBM. What is retrieval augmented generation (RAG)? IBM Think, 21 out. 2024. Atualizado em: 2 out. 2026. Disponível em: https://www.ibm.com/think/topics/retrieval-augmented-generation. Acesso em: 7 out. 2026."
+    },
+    {
+      "id": "ibmagents",
+      "authors": "GUTOWSKA, Anna",
+      "title": "What are AI agents?",
+      "publication": "IBM Think",
+      "year": null,
+      "url": "https://www.ibm.com/think/topics/ai-agents",
+      "sourceRef": "turn4view1",
+      "status": "verified_primary_date_not_visible",
+      "abnt": "GUTOWSKA, Anna. What are AI agents? IBM Think, [s. d.].",
+      "accessed": "7 out. 2026",
+      "fullReference": "GUTOWSKA, Anna. What are AI agents? IBM Think, [s. d.]. Disponível em: https://www.ibm.com/think/topics/ai-agents. Acesso em: 7 out. 2026."
+    },
+    {
+      "id": "ibmvector",
+      "authors": "KRANTZ, Tom; HOLDSWORTH, Jim; KOSINSKI, Matthew",
+      "title": "What is a vector database?",
+      "publication": "IBM Think",
+      "year": null,
+      "url": "https://www.ibm.com/think/topics/vector-database",
+      "sourceRef": "turn3view2",
+      "status": "verified_primary_date_not_visible",
+      "abnt": "KRANTZ, Tom; HOLDSWORTH, Jim; KOSINSKI, Matthew. What is a vector database? IBM Think, [s. d.].",
+      "accessed": "7 out. 2026",
+      "fullReference": "KRANTZ, Tom; HOLDSWORTH, Jim; KOSINSKI, Matthew. What is a vector database? IBM Think, [s. d.]. Disponível em: https://www.ibm.com/think/topics/vector-database. Acesso em: 7 out. 2026."
+    },
+    {
+      "id": "ibmreasoning",
+      "authors": "BERGMANN, Dave",
+      "title": "What is a reasoning model?",
+      "publication": "IBM Think",
+      "date": "7 August 2025",
+      "updated": "6 July 2026",
+      "year": 2025,
+      "url": "https://www.ibm.com/think/topics/reasoning-model",
+      "sourceRef": "turn7view0",
+      "status": "verified_primary",
+      "abnt": "BERGMANN, Dave. What is a reasoning model? IBM Think, 7 ago. 2025. Atualizado em: 6 jul. 2026.",
+      "accessed": "7 out. 2026",
+      "fullReference": "BERGMANN, Dave. What is a reasoning model? IBM Think, 7 ago. 2025. Atualizado em: 6 jul. 2026. Disponível em: https://www.ibm.com/think/topics/reasoning-model. Acesso em: 7 out. 2026."
+    },
+    {
+      "id": "ibmmoe",
+      "authors": "IBM",
+      "title": "What is mixture of experts?",
+      "publication": "IBM Think",
+      "year": null,
+      "url": "https://www.ibm.com/think/topics/mixture-of-experts",
+      "sourceRef": "turn4view2",
+      "status": "verified_primary_date_not_visible",
+      "abnt": "IBM. What is mixture of experts? IBM Think, [s. d.].",
+      "accessed": "7 out. 2026",
+      "fullReference": "IBM. What is mixture of experts? IBM Think, [s. d.]. Disponível em: https://www.ibm.com/think/topics/mixture-of-experts. Acesso em: 7 out. 2026."
+    },
+    {
+      "id": "mcp",
+      "authors": "MODEL CONTEXT PROTOCOL",
+      "title": "What is the Model Context Protocol (MCP)?",
+      "version": "2026-07-28",
+      "year": 2026,
+      "url": "https://modelcontextprotocol.io/docs/getting-started/intro",
+      "sourceRef": "turn3view3",
+      "status": "verified_primary",
+      "abnt": "MODEL CONTEXT PROTOCOL. What is the Model Context Protocol (MCP)? Documentação, 2026.",
+      "accessed": "7 out. 2026",
+      "fullReference": "MODEL CONTEXT PROTOCOL. What is the Model Context Protocol (MCP)? Documentação, 2026. Disponível em: https://modelcontextprotocol.io/docs/getting-started/intro. Acesso em: 7 out. 2026."
+    },
+    {
+      "id": "ibmagi",
+      "authors": "BERGMANN, Dave; DOWNIE, Amanda",
+      "title": "What is artificial general intelligence (AGI)?",
+      "publication": "IBM Think",
+      "date": "17 September 2024",
+      "updated": "14 July 2026",
+      "year": 2024,
+      "url": "https://www.ibm.com/think/topics/artificial-general-intelligence",
+      "sourceRef": "turn7view1",
+      "status": "verified_primary",
+      "abnt": "BERGMANN, Dave; DOWNIE, Amanda. What is artificial general intelligence (AGI)? IBM Think, 17 set. 2024. Atualizado em: 14 jul. 2026.",
+      "accessed": "7 out. 2026",
+      "fullReference": "BERGMANN, Dave; DOWNIE, Amanda. What is artificial general intelligence (AGI)? IBM Think, 17 set. 2024. Atualizado em: 14 jul. 2026. Disponível em: https://www.ibm.com/think/topics/artificial-general-intelligence. Acesso em: 7 out. 2026."
+    },
+    {
+      "id": "ibmasi",
+      "authors": "MUCCI, Tim; STRYKER, Cole",
+      "title": "What is artificial superintelligence?",
+      "publication": "IBM Think",
+      "date": "14 December 2023",
+      "year": 2023,
+      "url": "https://www.ibm.com/think/topics/artificial-superintelligence",
+      "sourceRef": "turn7view2",
+      "status": "verified_primary",
+      "abnt": "MUCCI, Tim; STRYKER, Cole. What is artificial superintelligence? IBM Think, 14 dez. 2023.",
+      "accessed": "7 out. 2026",
+      "fullReference": "MUCCI, Tim; STRYKER, Cole. What is artificial superintelligence? IBM Think, 14 dez. 2023. Disponível em: https://www.ibm.com/think/topics/artificial-superintelligence. Acesso em: 7 out. 2026."
+    },
+    {
+      "id": "aa",
+      "authors": "ARTIFICIAL ANALYSIS",
+      "title": "Comparison of AI Models across Intelligence, Performance, and Price",
+      "year": null,
+      "url": "https://artificialanalysis.ai/models",
+      "sourceRef": "turn1view3",
+      "status": "verified_primary_benchmark_provider",
+      "abnt": "ARTIFICIAL ANALYSIS. Comparison of AI Models across Intelligence, Performance, and Price. [S. l.], [s. d.].",
+      "accessed": "7 out. 2026",
+      "fullReference": "ARTIFICIAL ANALYSIS. Comparison of AI Models across Intelligence, Performance, and Price. [S. l.], [s. d.]. Disponível em: https://artificialanalysis.ai/models. Acesso em: 7 out. 2026."
+    },
+    {
+      "id": "nakamura2025",
+      "authors": "NAKAMURA, Yan Felipe Diamantino",
+      "title": "Aplicação do Design Thinking no desenvolvimento do protótipo da plataforma Kino Campus",
+      "year": 2025,
+      "type": "Trabalho de Conclusão de Curso (Graduação em Administração)",
+      "institution": "Faculdade de Administração, Ciências Contábeis e Ciências Econômicas, Universidade Federal de Goiás",
+      "location": "Goiânia",
+      "advisor": "Cândido Vieira Borges Júnior",
+      "url": "https://github.com/yandiamantinoBr/kino-campus/releases/download/docs-relatorio-tecnico-v1.6.7/TCC-Relato-Tecnico-Kino-Campus-V.1.6.7-FINAL.pdf",
+      "sourceRef": null,
+      "status": "user_supplied_pptx_only_external_pdf_fetch_blocked",
+      "abnt": "NAKAMURA, Yan Felipe Diamantino. Aplicação do Design Thinking no desenvolvimento do protótipo da plataforma Kino Campus. Orientador: Cândido Vieira Borges Júnior. 2025. Trabalho de Conclusão de Curso (Graduação em Administração) – Faculdade de Administração, Ciências Contábeis e Ciências Econômicas, Universidade Federal de Goiás, Goiânia, 2025.",
+      "accessed": "7 out. 2026",
+      "fullReference": "NAKAMURA, Yan Felipe Diamantino. Aplicação do Design Thinking no desenvolvimento do protótipo da plataforma Kino Campus. Orientador: Cândido Vieira Borges Júnior. 2025. Trabalho de Conclusão de Curso (Graduação em Administração) – Faculdade de Administração, Ciências Contábeis e Ciências Econômicas, Universidade Federal de Goiás, Goiânia, 2025. Disponível em: https://github.com/yandiamantinoBr/kino-campus/releases/download/docs-relatorio-tecnico-v1.6.7/TCC-Relato-Tecnico-Kino-Campus-V.1.6.7-FINAL.pdf. Acesso em: 7 out. 2026."
+    },
+    {
+      "id": "zotero",
+      "authors": "ZOTERO",
+      "title": "About",
+      "year": null,
+      "url": "https://www.zotero.org/about/",
+      "sourceRef": "turn10view0",
+      "status": "verified_primary",
+      "abnt": "ZOTERO. About. [S. l.], [s. d.].",
+      "accessed": "7 out. 2026",
+      "fullReference": "ZOTERO. About. [S. l.], [s. d.]. Disponível em: https://www.zotero.org/about/. Acesso em: 7 out. 2026."
+    },
+    {
+      "id": "researchrabbit",
+      "authors": "RESEARCHRABBIT",
+      "title": "ResearchRabbit: AI Tool for Smarter, Faster Literature Reviews",
+      "year": null,
+      "url": "https://www.researchrabbit.ai/",
+      "sourceRef": "turn10view1",
+      "status": "verified_primary",
+      "abnt": "RESEARCHRABBIT. ResearchRabbit: AI Tool for Smarter, Faster Literature Reviews. [S. l.], [s. d.].",
+      "accessed": "7 out. 2026",
+      "fullReference": "RESEARCHRABBIT. ResearchRabbit: AI Tool for Smarter, Faster Literature Reviews. [S. l.], [s. d.]. Disponível em: https://www.researchrabbit.ai/. Acesso em: 7 out. 2026."
+    },
+    {
+      "id": "scholar",
+      "authors": "GOOGLE",
+      "title": "About Google Scholar",
+      "year": null,
+      "url": "https://scholar.google.com/intl/pt-BR/scholar/about.html",
+      "sourceRef": "turn10view3",
+      "status": "verified_primary",
+      "abnt": "GOOGLE. About Google Scholar. [S. l.], [s. d.].",
+      "accessed": "7 out. 2026",
+      "fullReference": "GOOGLE. About Google Scholar. [S. l.], [s. d.]. Disponível em: https://scholar.google.com/intl/pt-BR/scholar/about.html. Acesso em: 7 out. 2026."
+    }
+  ],
+  "terms": [
+    {
+      "key": "Agentic AI",
+      "definition": "Sistemas que planejam e executam ações com ferramentas, em múltiplas etapas, para atingir metas; sua autonomia depende de regras e permissões.",
+      "source": "ibmagents",
+      "correction": "Evita apresentar autonomia irrestrita como propriedade geral de toda IA agentic."
+    },
+    {
+      "key": "LRM",
+      "definition": "Modelo de linguagem treinado ou ajustado para resolver problemas em etapas intermediárias antes de produzir a resposta final.",
+      "source": "ibmreasoning"
+    },
+    {
+      "key": "Vector Database",
+      "definition": "Banco que armazena, indexa e busca vetores por similaridade. Os vetores normalmente são gerados por modelos de embeddings.",
+      "source": "ibmvector",
+      "correction": "O banco não é, por definição, quem converte o dado em vetor."
+    },
+    {
+      "key": "RAG",
+      "definition": "Recupera informação de fontes externas e adiciona esse conteúdo ao contexto usado para gerar a resposta.",
+      "source": "ibmrag",
+      "correction": "RAG não retreina o modelo nem garante ausência de erros."
+    },
+    {
+      "key": "MCP",
+      "definition": "Protocolo aberto para conectar aplicações de IA a ferramentas, fontes de dados e sistemas externos.",
+      "source": "mcp",
+      "correction": "Evitar 'universal': não significa compatibilidade automática com qualquer sistema."
+    },
+    {
+      "key": "MoE",
+      "definition": "Arquitetura com vários submódulos, chamados especialistas; um roteador seleciona quais serão ativados ao processar cada token.",
+      "source": "ibmmoe",
+      "correction": "O roteamento não corresponde necessariamente a especialistas humanos ou a um único especialista por consulta."
+    },
+    {
+      "key": "AGI",
+      "definition": "Conceito de IA com capacidades gerais comparáveis às humanas em uma ampla variedade de tarefas. A definição é debatida.",
+      "source": "ibmagi",
+      "correction": "'Equivalente a qualquer especialista humano' é excessivo e não é definição consensual."
+    },
+    {
+      "key": "ASI",
+      "definition": "Conceito hipotético de IA que supera amplamente as capacidades intelectuais humanas.",
+      "source": "ibmasi",
+      "correction": "Autoaprimoramento contínuo é hipótese discutida, não requisito confirmado de toda ASI."
+    }
+  ],
+  "models": [
+    {
+      "name": "Claude Opus 5.5 / Sonnet 5.5",
+      "vendor": "Anthropic",
+      "category": "proprietário",
+      "verified": true,
+      "urls": [
+        "https://artificialanalysis.ai/models/claude-opus-5-5",
+        "https://artificialanalysis.ai/models/claude-sonnet-5-5"
+      ],
+      "sourceRefs": [
+        "turn9view5",
+        "turn8view3"
+      ]
+    },
+    {
+      "name": "GPT-5.6 Sol",
+      "vendor": "OpenAI",
+      "category": "proprietário",
+      "verified": true,
+      "url": "https://artificialanalysis.ai/models/gpt-5-6-sol",
+      "sourceRefs": [
+        "turn8view2"
+      ],
+      "note": "O AA classifica esta versão como depreciada; conservar apenas como exemplo histórico ou substituí-la por GPT-6.1 Sol, explicitando atualização."
+    },
+    {
+      "name": "GPT-6 Astra",
+      "vendor": "OpenAI",
+      "category": "proprietário",
+      "verified": true,
+      "url": "https://artificialanalysis.ai/models/gpt-6-astra",
+      "sourceRefs": [
+        "turn9view2"
+      ]
+    },
+    {
+      "name": "Gemini 4 Argon",
+      "vendor": "Google",
+      "category": "proprietário",
+      "verified": true,
+      "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+      "sourceRefs": [
+        "turn9view3"
+      ],
+      "note": "A listagem no benchmark não garante acesso a essa versão no app Gemini; confirmar disponibilidade no momento da demonstração."
+    },
+    {
+      "name": "Grok 4.7",
+      "vendor": "xAI / SpaceXAI",
+      "category": "proprietário",
+      "verified": true,
+      "url": "https://artificialanalysis.ai/models/grok-4-7",
+      "sourceRefs": [
+        "turn9view4"
+      ]
+    },
+    {
+      "name": "GLM-5.3-Flash",
+      "vendor": "Z.ai",
+      "category": "pesos abertos",
+      "license": "MIT",
+      "verified": true,
+      "url": "https://artificialanalysis.ai/models/glm-5-3-flash",
+      "sourceRefs": [
+        "turn6view1"
+      ]
+    },
+    {
+      "name": "MiMo-V2.6-Pro",
+      "vendor": "Xiaomi",
+      "category": "pesos abertos",
+      "license": "MIT",
+      "verified": true,
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "sourceRefs": [
+        "turn6view0"
+      ],
+      "officialUrl": "https://mimo.xiaomi.com/mimo-v2-6",
+      "officialSourceRef": "turn2search9"
+    },
+    {
+      "name": "Qwen3.8 Max (0902)",
+      "vendor": "Alibaba",
+      "category": "proprietário",
+      "verified": true,
+      "url": "https://artificialanalysis.ai/models/qwen3-8-max",
+      "sourceRefs": [
+        "turn6view2"
+      ],
+      "note": "Não confundir com Qwen3.8 2.4T A95B, de pesos abertos. Max (0902) tem pesos fechados."
+    },
+    {
+      "name": "DeepSeek V4.1 Flash",
+      "vendor": "DeepSeek",
+      "category": "pesos abertos",
+      "license": "MIT",
+      "verified": true,
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash",
+      "sourceRefs": [
+        "turn6view3"
+      ]
+    },
+    {
+      "name": "DeepSeek V4 Pro",
+      "vendor": "DeepSeek",
+      "category": "pesos abertos",
+      "verified": "nome de família verificado; há múltiplas versões, não rankear sem escolher a versão",
+      "url": "https://artificialanalysis.ai/models/comparisons/qwen3-8-max-0803-vs-deepseek-v4-pro-0424",
+      "sourceRefs": [
+        "turn2search5"
+      ]
+    }
+  ],
+  "slideCorrections": [
+    {
+      "slide": 5,
+      "change": "LLM’s → LLMs. Agentes devem ser explicados como camada que usa o modelo, ferramentas e regras; não uma categoria sinônima de LLM.",
+      "suggestedFooter": "Fontes: IBM — LLMs e RAG. Adicionar contexto à conversa não retreina o modelo."
+    },
+    {
+      "slide": 6,
+      "change": "Manter 8 termos, aprimorar definições técnicas e corrigir link da fonte IBM para o vídeo real. Para leitura complementar, usar links específicos."
+    },
+    {
+      "slide": 7,
+      "change": "Benchmark é comparação de desempenho em avaliações específicas. Usar 'Posições variam com a versão do modelo, esforço de raciocínio e atualização do índice'."
+    },
+    {
+      "slide": 8,
+      "change": "Lista original não é ranking confirmado. Remover numeração ordinal, manter nomes e links como exemplos. Qwen3.8 Max é proprietário e precisa mudar de categoria ou receber rótulo explícito.",
+      "suggestedHeading": "Qual o melhor modelo?",
+      "suggestedSections": [
+        "Exemplos de modelos proprietários",
+        "Alternativas, eficiência e pesos abertos"
+      ],
+      "suggestedFooter": "Exemplos da apresentação, não um ranking. Compare versão, tarefa, ferramentas, custo e velocidade. Consulta: 07/10/2026."
+    },
+    {
+      "slide": 15,
+      "change": "A referência original de Abreu já está correta em autor/ano/título/periódico/páginas; completar com DOI e link SciELO."
+    },
+    {
+      "slide": 18,
+      "change": "Orientações são compatíveis com guia UFG; evite sugerir que IA sempre é proibida ou que declarar uso dispensa regras da disciplina."
+    },
+    {
+      "slide": 19,
+      "change": "Citar CIA/UFG 2024, cap.9, pp30–35. A frase de declaração é exemplo formulado pelo apresentador, não transcrição do guia. TCC manter dados fornecidos no PPTX, sem alegar verificação externa."
+    },
+    {
+      "slide": 20,
+      "change": "Referências legíveis em cartões/abas com texto completo, links clicáveis e acesso em 7 out.2026. Substituir link errado do vídeo IBM; adicionar fontes específicas de LLM/RAG/MCP para conceitos."
+    }
+  ],
+  "implementationNotes": [
+    "Referências podem ficar na tela final em itens resumidos e abrir painel com a referência completa para preservar legibilidade.",
+    "Não aplicar alterações apenas em texto oculto: a imagem do slide 8 tem categorias/ordinais originais; a versão web precisa sobrepor ou recriar visualmente esse conteúdo.",
+    "Não transformar números de benchmark em porcentagens de inteligência; os índices são escores de avaliação.",
+    "Não tratar pesos abertos como sinônimo de acesso gratuito na API."
+  ]
+}
