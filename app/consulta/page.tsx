@@ -8,7 +8,7 @@ import './consulta.css';
 type Reference={id:string;authors:string;title:string;url:string;abnt:string;accessed:string|null;section?:string;accessNote?:string;teachingNote?:string;year:number|null};
 const references=SOURCES.references as Reference[];
 const SITE='https://ia-pesquisar-melhor-yan.yandiamantinobr.chatgpt.site';
-const PDF='/downloads/ia-pesquisar-melhor-v1.1.0.pdf';
+const PDF='/downloads/ia-pesquisar-melhor-v1.1.1.pdf';
 const noAction=()=>{};
 
 type Support={id:string;after:number;title:string;subtitle:string;src?:string;layout?:'portrait'|'wide'|'document'|'strip';credit:string;sourceIds:string[];notes:string[]};

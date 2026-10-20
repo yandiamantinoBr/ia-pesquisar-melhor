@@ -24,7 +24,7 @@
  .word-cloud{gap:5px 12px;max-height:320px;overflow:auto}
  .reading-deck{gap:22px;margin-top:0}.reading-mode .app-header{align-items:center;min-height:76px}.reading-mode .app-header nav{margin-left:0;flex:1;justify-content:flex-end}
  .slide,.mobile-card,.modal-body{overflow-wrap:anywhere}.slide a{word-break:normal}
- .slide-6 .glossary{gap:15px}.slide-6 .glossary>div:last-child{border-bottom:0}
+ .slide-6 .glossary{gap:15px}.slide-6 .glossary>div:last-child{border-bottom:0}.term-no{flex:0 0 24px;white-space:nowrap}
  .cover{aspect-ratio:auto;min-height:480px}.cover-content{min-height:480px}.cover-copy{width:64%;inset:28px auto 28px 24px}.cover h1{font-size:clamp(38px,9vw,60px)}.cover-art{object-position:62% center;opacity:.85}
 }
 @media(prefers-reduced-motion:reduce){.cloud-word{transition:none}}

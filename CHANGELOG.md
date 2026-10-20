@@ -1,5 +1,10 @@
 # Histórico
 
+## v1.1.1 - 20/10/2026
+
+- Ajuste da altura da capa e dos índices do glossário na consulta pelo celular.
+- PDF final conferido em 49 páginas, com 55 referências.
+
 ## v1.1.0 - 20/10/2026
 
 - API substitui ASI e aparece imediatamente antes de AGI.

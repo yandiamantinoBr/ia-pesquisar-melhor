@@ -6,7 +6,7 @@ const require=createRequire(import.meta.url);
 const args=process.argv.slice(2);
 const option=(name,fallback)=>{const at=args.indexOf(name);return at>=0?args[at+1]:fallback;};
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
-const output=path.resolve(option('--output','public/downloads/ia-pesquisar-melhor-v1.1.0.pdf'));
+const output=path.resolve(option('--output','public/downloads/ia-pesquisar-melhor-v1.1.1.pdf'));
 const report=path.resolve(option('--report','build/consulta-validation.json'));
 const qaOnly=args.includes('--qa-only');
 const modulePath=option('--playwright-module',null);

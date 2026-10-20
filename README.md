@@ -3,7 +3,7 @@
 Apresentação interativa de Yan Diamantino para a graduação em Administração.
 
 - [Apresentação pública](https://ia-pesquisar-melhor-yan.yandiamantinobr.chatgpt.site)
-- [PDF de consulta](https://ia-pesquisar-melhor-yan.yandiamantinobr.chatgpt.site/downloads/ia-pesquisar-melhor-v1.1.0.pdf)
+- [PDF de consulta](https://ia-pesquisar-melhor-yan.yandiamantinobr.chatgpt.site/downloads/ia-pesquisar-melhor-v1.1.1.pdf)
 - [Versões e downloads](https://github.com/yandiamantinoBr/ia-pesquisar-melhor/releases)
 
 ## Usar na aula
@@ -18,7 +18,7 @@ Cada participante contribui no máximo uma vez por conceito. Reenviar atualiza o
 
 ## Versões
 
-`v1.0.0` preserva o site originalmente publicado. `v1.1.0` contém a revisão de API/AGI, atividade, nuvem, leitura, referências e PDF. Cada release guarda o código daquele estado e seus arquivos de entrega. Para futuras alterações, mantenha versões numeradas e acrescente uma entrada em `CHANGELOG.md`.
+`v1.0.0` preserva o site originalmente publicado. `v1.1.0` contém a revisão de API/AGI, atividade, nuvem, leitura, referências e PDF. A revisão final `v1.1.1` corrige a capa e os índices do glossário no celular. Cada release guarda o código daquele estado e seus arquivos de entrega. Para futuras alterações, mantenha versões numeradas e acrescente uma entrada em `CHANGELOG.md`.
 
 ## Desenvolvimento
 
