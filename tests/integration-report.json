@@ -1,0 +1,57 @@
+{
+  "verifiedAt": "2026-10-20T14:11:44.078Z",
+  "target": "local development API",
+  "checks": [
+    {
+      "name": "Cross-origin session creation is blocked",
+      "passed": true
+    },
+    {
+      "name": "Session creation and anonymous state use the expected shape and private cookie",
+      "passed": true
+    },
+    {
+      "name": "A participant or incorrect host key cannot control the presentation",
+      "passed": true
+    },
+    {
+      "name": "Authorized slide and blackout controls synchronize, with invalid commands rejected",
+      "passed": true
+    },
+    {
+      "name": "Response validation rejects empty, conflicting, duplicate, invalid and overlong inputs",
+      "passed": true
+    },
+    {
+      "name": "A first response is counted and the requested Codex/negated-Claude example is correct",
+      "passed": true
+    },
+    {
+      "name": "Editing the same browser response replaces selections and text without an extra participant",
+      "passed": true
+    },
+    {
+      "name": "Different browsers count separately, synonyms group and frequency reflects people",
+      "passed": true
+    },
+    {
+      "name": "Full experience text is returned only to the authorized host",
+      "passed": true
+    },
+    {
+      "name": "The presenter pauses and resumes participation, and the API enforces the pause",
+      "passed": true
+    },
+    {
+      "name": "Unknown or malformed room codes return a clear missing-session response",
+      "passed": true
+    }
+  ],
+  "totalChecks": 11,
+  "passed": true,
+  "database": "Local Miniflare D1 only; no production data changed",
+  "browserVerification": "Unavailable: browser origin gate denied this local origin; no alternate browser path used",
+  "limits": [
+    "HTTP checks and static UI trace; physical QR scanning and visual animation not browser-verified"
+  ]
+}

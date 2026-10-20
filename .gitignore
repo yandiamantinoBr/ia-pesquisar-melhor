@@ -44,3 +44,7 @@ next-env.d.ts
 /.codex/
 /outputs/
 /work/
+/build/consulta-offline/
+/build/consulta-validation.json
+/build/consulta-qa/
+*.tsbuildinfo
